@@ -1,0 +1,11 @@
+{
+  "org": "PyCQA",
+  "repo": "modernize",
+  "versions": [
+    {
+      "commit": "f06b20ad4728267ebcacb96075118529541697cd",
+      "tag": "",
+      "parsed_at": "2026-10-20T23:39:10.551028+00:00"
+    }
+  ]
+}
